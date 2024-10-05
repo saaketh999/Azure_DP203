@@ -1,0 +1,9 @@
+{
+	"name": "demoforadfgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6744f0f7-64ac-402e-87ec-a2a7fba17552",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}
