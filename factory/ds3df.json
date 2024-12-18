@@ -1,0 +1,9 @@
+{
+	"name": "ds3df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "158c51e6-608f-44b6-8b2a-e3c54d1e3a89",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}
